@@ -43,7 +43,7 @@
      .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
-            footer {
+footer {
                 background-color: black;
                 color: white;
                 position: fixed;
@@ -51,7 +51,7 @@
                 width: 100%;
                 height: 2rem;}
                 
-                footer p{
+footer p{
                     text-align: center;
                     font-size: 0.6rem;
                    height:2rem;  
